@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.7e60fa80.css",
-    "main.js": "/portfolio-website/static/js/main.740e3dc7.js",
+    "main.css": "/portfolio-website/static/css/main.fdbc5cac.css",
+    "main.js": "/portfolio-website/static/js/main.232f347e.js",
     "static/js/787.749b4a44.chunk.js": "/portfolio-website/static/js/787.749b4a44.chunk.js",
-    "static/media/helvetica-neu.ttf": "/portfolio-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/helveticaneue.woff": "/portfolio-website/static/media/helveticaneue.14cc85b1652bbe1956b0.woff",
+    "static/media/helveticaneue.woff2": "/portfolio-website/static/media/helveticaneue.d5d60cee219141233575.woff2",
+    "static/media/LaBelleAurore.woff": "/portfolio-website/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
     "static/media/LaBelleAurore.woff2": "/portfolio-website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/portfolio-website/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/portfolio-website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/portfolio-website/index.html",
-    "main.7e60fa80.css.map": "/portfolio-website/static/css/main.7e60fa80.css.map",
-    "main.740e3dc7.js.map": "/portfolio-website/static/js/main.740e3dc7.js.map",
+    "main.fdbc5cac.css.map": "/portfolio-website/static/css/main.fdbc5cac.css.map",
+    "main.232f347e.js.map": "/portfolio-website/static/js/main.232f347e.js.map",
     "787.749b4a44.chunk.js.map": "/portfolio-website/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e60fa80.css",
-    "static/js/main.740e3dc7.js"
+    "static/css/main.fdbc5cac.css",
+    "static/js/main.232f347e.js"
   ]
 }
