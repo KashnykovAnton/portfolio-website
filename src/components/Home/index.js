@@ -36,6 +36,7 @@ const Home = () => {
         <div className="container home-page">
             <div className="text-zone">
                 <h1>
+                {/* <span className='tags top-tags'>&lt;h1&gt;</span> */}
                     <span className={letterClass}>H</span>
                     <span className={`${letterClass} _10`}>i</span>
                     <span className={`${letterClass} _11`}>,</span>
@@ -48,6 +49,7 @@ const Home = () => {
                 <br/>
                     <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={20}/>
                 </h1>
+                {/* <span className='bottom-tag-html'>&lt;/h1&gt;</span> */}
                 <h2>Frontend / JavaScript / React Developer</h2>
                 <Link to='/contact' className="flat-button">CONTACT ME</Link>
             </div>
